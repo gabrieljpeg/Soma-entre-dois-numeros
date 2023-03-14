@@ -15,4 +15,4 @@ Essa síntaxe é nova e está sendo aplicada no Python 3.
 
 Mas o que é a função ".format"?
 A função ajuda economizando nas variáveis de diferentes tipos, por exemplo com o ".format" eu consigo escrever "n1, n2, s" sem precisar exatamente de escrever eles.
-É uma versão otimizada e sem se preocupar com os tipos de variáveis e tomar cuidado de escrever as variáveis na ordem correta para não haver confusão.
+É uma versão otimizada e sem se preocupar com os tipos de variáveis e tomar o cuidado de escrever as variáveis na ordem correta para não haver confusão.
