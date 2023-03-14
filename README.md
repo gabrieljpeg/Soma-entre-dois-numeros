@@ -3,10 +3,10 @@ Como somar números, tipos primitivos e saída de dados.
 Antes do "input" é necessário adicionar um tipo primitivo, se não o número será considerado uma "string". 
 
 Os tipos primitivos mais básicos são:
-int - inteiro (7, -4, 0, 9875)
-float - reais (4.5, 0.76, -15.223, 7.0)
-bool - booleano (True, False)
-str - string 'Hello' '7.5' ''
+int - inteiro (7, -4, 0, 9875);
+float - reais (4.5, 0.76, -15.223, 7.0);
+bool - booleano (True, False);
+str - string 'Hello' '7.5' '';
 
 O que é ".format" e "{}"?
 As chaves "{}" são substítuidas por um método da própria string.
